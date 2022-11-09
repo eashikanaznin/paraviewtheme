@@ -1,0 +1,9 @@
+name: themedru
+type: theme
+base theme: claro
+description: 'A clean, accessible, and flexible Drupal front-end theme.'
+alt text: 'Screenshot of Olivero, Drupal front-end theme.'
+core_version_requirement: ^8 || ^9
+package: Core
+version: VERSION
+
